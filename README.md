@@ -1,5 +1,5 @@
 # SmartThings_SenseMonitor
-Connects SmartThings with Sense
+Connects Hubitat with Sense
 
 ### Beta Notice and known limitations
 * This SmartApp is considered an early "beta" - functionality is limited and there are likely to be bugs. Feel free to <a href="https://github.com/brbeaird/SmartThings_SenseMonitor/issues">create and track issues here</a>.
